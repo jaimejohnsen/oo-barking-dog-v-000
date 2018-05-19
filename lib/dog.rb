@@ -1,7 +1,6 @@
 class Dog 
   
   def initialize
-    
   end
   
   def bark
